@@ -26,6 +26,7 @@ This script is designed to generate a question paper based on user input for tot
 1. Clone the repository:
 
    ```bash
+   https://github.com/manan-dude/QuestionPaper_Generator.git
  
 2. Install dependencies:
 
