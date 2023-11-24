@@ -1,0 +1,667 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the concept of black holes.",
+    "subject": "Astrophysics",
+    "topic": "Cosmology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Solve the quadratic equation x^2 - 4x + 4 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the capital of France.",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Describe the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Who is the author of 'To Kill a Mockingbird'?",
+    "subject": "Literature",
+    "topic": "American Literature",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Solve the equation log(x) = 2.",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Name three programming languages.",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define the term 'global warming'.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Solve the system of equations: 2x + y = 5, x - 3y = 7.",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the largest planet in our solar system.",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Explain the principles of democracy.",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Write a short poem about nature.",
+    "subject": "Literature",
+    "topic": "Poetry",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Describe the structure of a cell.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "subject": "Literature",
+    "topic": "Shakespeare",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "Balance the chemical equation: H2 + O2 = H2O.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the square root of 64?",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 4
+  },
+  {
+    "question": "What is the purpose of an if-else statement in programming?",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who sculpted 'David'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Explain the greenhouse effect.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Solve the integral: ∫(2x + 3)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the closest star to Earth.",
+    "subject": "Astronomy",
+    "topic": "Stars",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "What are the three branches of government?",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Write a short story with a twist ending.",
+    "subject": "Literature",
+    "topic": "Fiction",
+    "difficulty": "Hard",
+    "marks": 9
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "subject": "Economics",
+    "topic": "Currency",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Solve the equation sin(x) = 0.5.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "What is object-oriented programming?",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "subject": "Art",
+    "topic": "Impressionism",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the impact of deforestation on the environment.",
+    "subject": "Environmental Science",
+    "topic": "Deforestation",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Differentiate y = x^2 with respect to x.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the largest moon of Jupiter.",
+    "subject": "Astronomy",
+    "topic": "Moons",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the concept of checks and balances?",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Create a dialogue between two characters.",
+    "subject": "Literature",
+    "topic": "Drama",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the official language of Brazil?",
+    "subject": "Language",
+    "topic": "Languages of the World",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Evaluate the limit lim(x->0) (sin(x)/x).",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of inheritance in programming.",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who created the 'David' sculpture?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the causes and effects of air pollution.",
+    "subject": "Environmental Science",
+    "topic": "Air Pollution",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Integrate the function ∫(2x + 3)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the fourth planet from the sun.",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of federalism.",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Write a persuasive essay on a current social issue.",
+    "subject": "Literature",
+    "topic": "Essays",
+    "difficulty": "Hard",
+    "marks": 3
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "subject": "Economics",
+    "topic": "Currency",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Solve the equation cos(x) = -1.",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of polymorphism in programming.",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Discuss the impact of plastic pollution on marine life.",
+    "subject": "Environmental Science",
+    "topic": "Plastic Pollution",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Find the derivative of f(x) = ln(x).",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the fifth planet from the sun.",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of socialism.",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Write a short play with multiple characters.",
+    "subject": "Literature",
+    "topic": "Drama",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the official language of China?",
+    "subject": "Language",
+    "topic": "Languages of the World",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Evaluate the integral ∫(4x + 3)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of encapsulation in programming.",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "Who created the 'Vitruvian Man'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Discuss the impact of industrialization on the environment.",
+    "subject": "Environmental Science",
+    "topic": "Industrialization",
+    "difficulty": "Medium",
+    "marks": 7
+  },
+  {
+    "question": "Integrate the function ∫(5x^2 + 4)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the third planet from the sun.",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of communism.",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Write a short story with a historical setting.",
+    "subject": "Literature",
+    "topic": "Historical Fiction",
+    "difficulty": "Hard",
+    "marks": 6
+  },
+  {
+    "question": "What is the official language of India?",
+    "subject": "Language",
+    "topic": "Languages of the World",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Evaluate the limit lim(x->∞) (1/x).",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Explain the concept of recursion in programming.",
+    "subject": "Computer Science",
+    "topic": "Programming",
+    "difficulty": "Hard",
+    "marks": 8
+  },
+  {
+    "question": "define cross?",
+    "subject": "maths",
+    "topic": "vector",
+    "difficulty": "Medium",
+    "marks": 2
+  },
+  {
+    "question": "q",
+    "subject": "w",
+    "topic": "s",
+    "difficulty": "Hard",
+    "marks": 1
+  },
+  {
+    "question": "define speed?",
+    "subject": "phusics",
+    "topic": "motion",
+    "difficulty": "Easy",
+    "marks": 2
+  },
+  {
+    "question": "define intetia?",
+    "subject": "physics",
+    "topic": "motion",
+    "difficulty": "Hard",
+    "marks": 1
+  },
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Balance the chemical equation: H2 + O2 = H2O.",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who painted 'Starry Night'?",
+    "subject": "Art",
+    "topic": "Impressionism",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Who painted the 'Mona Lisa'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "subject": "Chemistry",
+    "topic": "Elements",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Name the largest planet in our solar system.",
+    "subject": "Astronomy",
+    "topic": "Planets",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Who sculpted 'David'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the currency of Australia?",
+    "subject": "Economics",
+    "topic": "Currency",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Name the largest moon of Jupiter.",
+    "subject": "Astronomy",
+    "topic": "Moons",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Who created the 'David' sculpture?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "What is the currency of Japan?",
+    "subject": "Economics",
+    "topic": "Currency",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Who created the 'Vitruvian Man'?",
+    "subject": "Art",
+    "topic": "Renaissance Art",
+    "difficulty": "Easy",
+    "marks": 4
+  },
+  {
+    "question": "Name the capital of France.",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 3
+  },
+  {
+    "question": "Explain the concept of black holes.",
+    "subject": "Astrophysics",
+    "topic": "Cosmology",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain the principles of democracy.",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "What are the three branches of government?",
+    "subject": "Political Science",
+    "topic": "Government",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Solve the equation log(x) = 2.",
+    "subject": "Mathematics",
+    "topic": "Logarithms",
+    "difficulty": "Medium",
+    "marks": 6
+  },
+  {
+    "question": "Solve the quadratic equation x^2 - 4x + 4 = 0.",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Solve the system of equations: 2x + y = 5, x - 3y = 7.",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Solve the integral: ∫(2x + 3)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Differentiate y = x^2 with respect to x.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Integrate the function ∫(2x + 3)dx.",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Find the derivative of f(x) = ln(x).",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "define wrod/",
+    "subject": "english",
+    "topic": "word",
+    "difficulty": "Medium",
+    "marks": 1
+  }
+]
