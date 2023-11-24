@@ -42,6 +42,7 @@ This script is designed to generate a question paper based on user input for tot
 
 User-Input:
 ![](output/UserInput.png)
+
 Enter the total marks and percentage distribution according to the difficulty.
 
 Calculated Marks based on percentage:
