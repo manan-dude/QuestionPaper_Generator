@@ -41,19 +41,25 @@ This script is designed to generate a question paper based on user input for tot
 ## Screenshots
 
 User-Input:
+
 ![](output/UserInput.png)
 
 Enter the total marks and percentage distribution according to the difficulty.
 
 Calculated Marks based on percentage:
+
 ![](output/MarksDistribution.png)
 
 Prepared question paper:
+
 ![](output/PreparedQuesPaper.png)
+
 It will also give you the remaining marks if the algo don't find the question and you can add it accordingly.
 
 Final Question paper:
+
 ![](FinalQuestionPaper.png)
+
 Congratulations!! Your question paper is ready.
 
 
