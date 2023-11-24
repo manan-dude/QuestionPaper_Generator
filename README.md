@@ -58,7 +58,7 @@ It will also give you the remaining marks if the algo don't find the question an
 
 ### Final Question paper:
 
-![](FinalQuestionPaper.png)
+![](output/FinalQuestionPaper.png)
 
 *Congratulations!! Your question paper is ready.*
 
