@@ -7,8 +7,7 @@ This script is designed to generate a question paper based on user input for tot
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -28,3 +27,25 @@ This script is designed to generate a question paper based on user input for tot
 
    ```bash
    git clone https://github.com/your-username/question-paper-generator.git
+2. Install dependencies:
+
+   ```bash
+   npm install
+3. Run the script:
+
+   ```bash
+   node main.js
+4. Follow the prompts to input total marks and difficulty distribution percentages.
+5. Review the generated question paper and manually add questions if needed.
+
+## Screenshots
+
+Screenshot 1
+
+Description of the screenshot.
+
+Screenshot 2
+Description of the screenshot.
+
+
+   
