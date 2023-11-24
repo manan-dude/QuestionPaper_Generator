@@ -40,7 +40,7 @@ This script is designed to generate a question paper based on user input for tot
 
 ## Screenshots
 
-Screenshot 1
+![](output/UserInput.png)
 
 Description of the screenshot.
 
